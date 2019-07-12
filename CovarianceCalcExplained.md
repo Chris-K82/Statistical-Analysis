@@ -1,8 +1,8 @@
-HOMEWORK by 12.07 10AM : 
-	Q1: Explain the difference in the normalization constant in 
-    variance/covariance formula
+# HOMEWORK by 12.07 10AM : 
+variance/covariance formula
 Good starting point : https://stats.stackexchange.com/questions/17890/what-is-the-difference-between-n-and-n-1-in-calculating-population-variance
 
+    Q1: Explain the difference in the normalization constant in 
     A1: First, there are two variables which, on the surface, look the same:
     n vs. N. while n represents a sample size N reresents the poplation from
     which the sample was taken. To highlight this, let's say you want to 
